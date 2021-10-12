@@ -43,6 +43,6 @@ function pad(value) {
 
 const mySonBirthday = new CountdownTimer({
   selector: '#timer-1',
-  targetDate: new Date('Nov 29, 2022'),
+  targetDate: new Date('Nov 29, 2021'),
 });
 mySonBirthday.getTime();
